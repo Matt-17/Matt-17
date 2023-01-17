@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Matt-17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Matt-17/Matt-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Matt-17
+👀 I’m interested in software development, specifically in creating mobile apps and backend systems.
+🌱 I’m currently learning MAUI to expand my skills in mobile app development.
+💞️ I’m looking to collaborate on projects related to mobile app development, particularly using MAUI and ASP.NET.
+📫 You can reach me at m.voigt@code-ix.de or through my LinkedIn Profile: [http://v83.de](https://de.linkedin.com/in/MatthiasVoigt1)
