@@ -6,4 +6,4 @@
 
 💞️ I’m looking to collaborate on projects related to mobile app development, particularly using MAUI and ASP.NET.
 
-📫 You can reach me at m.voigt@code-ix.de or through my LinkedIn Profile: [http://v83.de](https://de.linkedin.com/in/MatthiasVoigt1)
+📫 You can reach me at m.voigt@code-ix.de or through my [LinkedIn Profile](https://de.linkedin.com/in/MatthiasVoigt1).
